@@ -1,4 +1,4 @@
-# Black Literman and Portfolio Optimization Analysis
+# Black Litterman and Portfolio Optimization Analysis
 
 ## Summary
 
