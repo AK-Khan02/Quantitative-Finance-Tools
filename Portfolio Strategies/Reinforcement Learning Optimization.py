@@ -3,7 +3,6 @@ import gym
 from stable_baselines3 import A2C
 from stable_baselines3.common.envs import PortfolioEnv
 
-# Example data (replace with your own)
 prices = np.random.randn(100, 5)  # Historical price data for 5 assets over 100 time steps
 
 # Custom Gym environment for portfolio optimization
