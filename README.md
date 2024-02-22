@@ -21,6 +21,4 @@ Clone the repository to get started with the models and tools:
 
 git clone https://github.com/AK-Khan02/Finance-Projects.git
 
-## License
-This project is licensed under the MIT License.
 
