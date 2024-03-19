@@ -25,7 +25,7 @@ class RhoHedgedPortfolio:
     def adjust_for_rho(self, S, r):
         current_rho = self.portfolio_rho(S, r)
         print(f"Current Portfolio Rho: {current_rho}")
-        # Implement rho hedging logic here, possibly by adjusting option positions or adding interest rate sensitive instruments
+        # Rho Logic Should be Implemented here
 
 # Example usage
 options = [
