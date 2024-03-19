@@ -26,7 +26,8 @@ class ThetaHedgedPortfolio:
     def adjust_for_theta(self, S, r):
         current_theta = self.portfolio_theta(S, r)
         print(f"Current Portfolio Theta: {current_theta}")
-        # Implement theta hedging logic here, possibly by adjusting option positions or adding time-sensitive instruments
+        # Theta logic should be adjusted here
+
 
 # Example usage
 options = [
